@@ -7,11 +7,11 @@ You can like posts and comment on posts.
 
 **Link to project:**
 
-<img src="public/images/live_screenshot1.png">
+<img src="public/img/live_screenshot1.png">
 
-<img src="public/images/live_screenshot2.png">
+<img src="public/img/live_screenshot2.png">
 
-<img src="public/images/live_screenshot3.png">
+<img src="public/img/live_screenshot3.png">
 
 ## How It's Made:
 
